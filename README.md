@@ -1,6 +1,6 @@
-# socproject
+# RealEstate App
 
-A new Flutter project.
+A Flutter project which is specifically developed for RealEstate.
 
 ## Getting Started
 
